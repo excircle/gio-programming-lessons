@@ -22,6 +22,7 @@ Fill in the blanks of this [JSON Document](https://en.wikipedia.org/wiki/JSON).
     {
         "What's the difference between control a car and a person driving a car?": ""
     }
+]
 ```
 
 Please think of these philisophical concepts as you go through today's lesson
