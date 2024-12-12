@@ -48,6 +48,7 @@ List of Tasks to complete!
 
 | Item | Description |
 | - | - |
+| BASH Intro | See files, Make files, Copy Files, Read File, Search Files, Filter, Count |
 | Perform PB&J Lesson | Let's explain how to create a PB&J Sandwhich |
 | Perform `gio.py` Lesson | Let's Write Our First Programming Language |
 
