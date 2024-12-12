@@ -56,9 +56,9 @@ List of Tasks to complete!
 
 | Question | Answer |
 | - | - |
-| What is Git? | # |
-| What is Github??? | # |
-| What is an IDE? | # |
+| What is Git? | A program to synchroize data between two folders. |
+| What is Github??? | A website that hosts repositories (folders). |
+| What is an IDE? | IDE stands for Integrated Development Environment. A program for writing programs. |
 | What is a Terminal? | # |
 | What is a Package Manager? | # |
 | What is Version Control | # |
