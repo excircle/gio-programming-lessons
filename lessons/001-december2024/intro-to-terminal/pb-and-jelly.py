@@ -1,17 +1,31 @@
-##### INGREDIENTS & TOOLS
+#### LIFE SKILLS (Libraries)
 
 '''
 
 
 '''
 
-##### SKILLS & ABILITIES
+#### PEOPLE OR THINGS (Objects)
+
+'''
+
+
+'''
+
+##### INGREDIENTS & TOOLS (Variables)
+
+'''
+
+
+'''
+
+##### SKILLS & ABILITIES (Functions)
 
 '''
 
 '''
 
-##### SUMMARY
+##### SUMMARY (Main)
 
 '''
 
